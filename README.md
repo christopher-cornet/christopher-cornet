@@ -24,25 +24,15 @@
 ## <p align="center"> 📈 Stats </p> 
 <table align="center"><tr><td align="center" width="50%">
 
-<!-- Dark Mode & Light Mode --!>
-<a href="https://github.com/christopher-cornet#gh-light-mode-only">
- <img src="https://github-readme-stats.vercel.app/api?username=christopher-cornet&show_icons=true&count_private=true&hide_border=true#gh-light-mode-only" align="center" style="width: 100%" />
-</a>
-
-<a href="https://github.com/christopher-cornet#gh-dark-mode-only">
- <img src="https://github-readme-stats.vercel.app/api?username=christopher-cornet&show_icons=true&count_private=true&hide_border=true#gh-dark-mode-only" align="center" style="width: 100%" />
-</a>
-
+<!-- Dark Mode & Light Mode -->
+[![Christopher GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=christopher-cornet&show_icons=true&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/christopher-cornet#gh-dark-mode-only)
+[![Christopher GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=christopher-cornet&show_icons=true&layout=compact&theme=default#gh-light-mode-only)](https://github.com/christopher-cornet#gh-light-mode-only)
+  
 </td><td align="center" width="50%">
 
-<a href="https://github.com/christopher-cornet#gh-light-mode-only">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-cornet&hide_border=true&layout=compact#gh-light-mode-only" align="center" style="width: 100%" />
-</a>
-
-<a href="https://github.com/christopher-cornet#gh-dark-mode-only">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-cornet&hide_border=true&layout=compact#gh-dark-mode-only" align="center" style="width: 100%" />
-</a>
-
+[![Christopher GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-cornet&show_icons=true&layout=compact&theme=default#gh-light-mode-only)](https://github.com/christopher-cornet#gh-light-mode-only)
+[![Christopher GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-cornet&show_icons=true&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/christopher-cornet#gh-dark-mode-only)
+  
 </td></tr></table> 
 
 <p align="center"> 🌐 <a href="https://christopher-cornet.students-laplateforme.io/" target="_blank"> My website </a> </p>
