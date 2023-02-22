@@ -24,11 +24,24 @@
 ## <p align="center"> 📈 Stats </p> 
 <table align="center"><tr><td align="center" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=christopher-cornet&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
+<!-- Dark Mode & Light Mode --!>
+<a href="https://github.com/christopher-cornet#gh-light-mode-only">
+ <img src="https://github-readme-stats.vercel.app/api?username=christopher-cornet&show_icons=true&count_private=true&hide_border=true#gh-light-mode-only" align="center" style="width: 100%" />
+</a>
+
+<a href="https://github.com/christopher-cornet#gh-dark-mode-only">
+ <img src="https://github-readme-stats.vercel.app/api?username=christopher-cornet&show_icons=true&count_private=true&hide_border=true#gh-dark-mode-only" align="center" style="width: 100%" />
+</a>
 
 </td><td align="center" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-cornet&hide_border=true&layout=compact" align="center" style="width: 100%" />
+<a href="https://github.com/christopher-cornet#gh-light-mode-only">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-cornet&hide_border=true&layout=compact#gh-light-mode-only" align="center" style="width: 100%" />
+</a>
+
+<a href="https://github.com/christopher-cornet#gh-dark-mode-only">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-cornet&hide_border=true&layout=compact#gh-dark-mode-only" align="center" style="width: 100%" />
+</a>
 
 </td></tr></table> 
 
