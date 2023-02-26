@@ -35,4 +35,5 @@
   
 </td></tr></table> 
 
-<p align="center"> 🌐 <a href="https://christopher-cornet.students-laplateforme.io/" target="_blank"> My website </a> </p>
+<p align="center"> 🌐 <a href="https://christopher-cornet.students-laplateforme.io/" target="_blank"> My website </a>
+👨‍💼 <a href="https://www.linkedin.com/in/christopher-cornet/" target="_blank"> LinkedIn </a> </p>
