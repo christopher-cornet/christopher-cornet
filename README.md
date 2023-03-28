@@ -7,8 +7,8 @@
 <div align="center">
 
   <a href="https://www.python.org/" target="_blank">![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</a>
-  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank">![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a>
-  <a href="https://www.php.net/" target="_blank">![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)</a>
+  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank">![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)</a>
+  <a href="https://www.mysql.com/fr/" target="_blank">![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)</a>
   <a href="https://learn.microsoft.com/fr-fr/dotnet/csharp/" target="_blank">![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)</a>
   
 </div>
@@ -35,5 +35,5 @@
   
 </td></tr></table> 
 
-<p align="center"> 🌐 <a href="https://christopher-cornet.students-laplateforme.io/" target="_blank"> My website </a>
-👨‍💼 <a href="https://www.linkedin.com/in/christopher-cornet/" target="_blank"> LinkedIn </a> </p>
+<p align="center"> 🌐 <a href="https://christopher-cornet.students-laplateforme.io/" target="_blank"> <b> My website </b> </a> </p>
+<p align="center"> 👨‍💼  <a href="https://www.linkedin.com/in/christopher-cornet/" target="_blank"> <b> LinkedIn </b> </a> </p>
