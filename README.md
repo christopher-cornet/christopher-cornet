@@ -32,7 +32,7 @@
 
 <div align="right">
   <a href="https://www.linkedin.com/in/christopher-cornet/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="34" alt="linkedin logo"  /></a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="46" height="34" alt="gmail logo"  />
+  <a href="mailto:christopher.cornet@laplateforme.io" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="46" height="34" alt="gmail logo"  /></a>
 </div>
 
 ###
