@@ -2,7 +2,7 @@
 
 <p align="center"> <a href="Typing"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=100&color=2E77F7&center=true&width=435&lines=Student+in+web+development+%F0%9F%8E%93;at+La+Plateforme+%F0%9F%93%9A;Goal%3A+Full Stack+Developer+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" /></a> </p>
 
-<p align="center"> <a href="https://christopher-cornet.students-laplateforme.io/" target="_blank"> <b> Mon portfolio </b> </a> </p>
+<p align="center"> <a href="https://christopher-cornet.students-laplateforme.io/" target="_blank"> <b> My portfolio </b> </a> </p>
 
 <h3 align="left">About me</h2>
 
