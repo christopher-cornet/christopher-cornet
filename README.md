@@ -9,7 +9,7 @@ About me
 
 * 🌍  I'm a self-taught passionate Web Developer based in Marseille, France 🇫🇷
 * 🧠  Currently, I'm learning Javascript
-* 🖥️  See my portfolio at [https://christopher-cornet.students-laplateforme.io/](http://https://christopher-cornet.students-laplateforme.io/)
+* 🖥️  See my portfolio at [https://christopher-cornet.students-laplateforme.io/](https://christopher-cornet.students-laplateforme.io/)
 * ✉️  You can contact me at [christopher.cornet@laplateforme.io](mailto:christopher.cornet@laplateforme.io)
 
 <h3 align="center">Languages and tools</h3>
