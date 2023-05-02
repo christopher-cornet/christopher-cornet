@@ -2,11 +2,9 @@
 
 <p align="center"> <a href="Typing"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=100&color=2E77F7&center=true&width=435&lines=Student+in+web+development+%F0%9F%8E%93;at+La+Plateforme+%F0%9F%93%9A;Goal%3A+Full Stack+Developer+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" /></a> </p>
 
-About me
--------------
-
 * 🌍  I'm a self-taught passionate Web Developer based in Marseille, France 🇫🇷
-* 🧠  Currently, I'm learning Javascript
+* 💼 I am looking for an apprenticeship in web development
+* 🧠  Currently, I'm working with Javascript
 * 🖥️  See my portfolio at [https://christopher-cornet.students-laplateforme.io/](https://christopher-cornet.students-laplateforme.io/)
 * ✉️  You can contact me at [christopher.cornet@laplateforme.io](mailto:christopher.cornet@laplateforme.io)
 
