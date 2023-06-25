@@ -28,7 +28,7 @@
 <h3 align="center">Interested in learning</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,mongodb" /><br>
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,mongodb,angular" /><br>
 </div>
 
 ###
