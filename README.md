@@ -7,21 +7,20 @@
 🧠  Currently, I'm working with Javascript & React<br>
 🖥️  See my portfolio at [https://christopher-cornet.students-laplateforme.io/](https://christopher-cornet.students-laplateforme.io/)
 
-<h3>Front End<h3>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<br>
 
-<h3>Back End</h3>
-<img src="https://skillicons.dev/icons?i=python,php,cs" />
+<div align="center">
+  
+| Front End | Back End | Database | Tools |
+|     :---:      |     :---:      |     :---:      |     :---:     |
+| <img src="https://skillicons.dev/icons?i=html,css,js" />   |<img src="https://skillicons.dev/icons?i=python,php,cs" />     | <img src="https://skillicons.dev/icons?i=mysql" /> | <img src="https://skillicons.dev/icons?i=git,linux,unity,figma,photoshop" />
 
-<h3>Database</h3>
-<img src="https://skillicons.dev/icons?i=mysql" />
 
-<h3>Tools</h3>
-<img src="https://skillicons.dev/icons?i=git,linux,unity,figma,photoshop" /><br>
+</div>
 
 ###
 
-<h3 align="center">Interested in learning !</h3>
+<h3 align="center">Interested in learning :</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,laravel,ts,nodejs,angular" /><br>
