@@ -13,7 +13,7 @@
   
 | Front End | Back End | Database | Tools |
 |     :---:      |     :---:      |     :---:      |     :---:     |
-| <img src="https://skillicons.dev/icons?i=html,css,js" />   |<img src="https://skillicons.dev/icons?i=python,php,cs" />     | <img src="https://skillicons.dev/icons?i=mysql" /> | <img src="https://skillicons.dev/icons?i=git,linux,unity,figma,photoshop" />
+| <img src="https://skillicons.dev/icons?i=html,css,js" /><br> <img src="https://skillicons.dev/icons?i=react,jquery" />  |<img src="https://skillicons.dev/icons?i=python,php,cs" />     | <img src="https://skillicons.dev/icons?i=mysql" /> | <img src="https://skillicons.dev/icons?i=git,linux,unity" /> <br> <img src="https://skillicons.dev/icons?i=figma,photoshop" />
 
 
 </div>
@@ -23,7 +23,8 @@
 <h3 align="center">Interested in learning :</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,laravel,ts,nodejs,angular" /><br>
+  <img src="https://skillicons.dev/icons?i=laravel,ts,nodejs,angular" /><br>
+  <img src="https://skillicons.dev/icons?i=symfony,vue,express,spring" /><br>
 </div>
 
 ###
