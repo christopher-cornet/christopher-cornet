@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="center">Interested in learning :</h3>
+<h3 align="center">Interested in learning</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=laravel,ts,nodejs,angular" /><br>
