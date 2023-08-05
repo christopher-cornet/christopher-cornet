@@ -5,7 +5,7 @@ I'm a self-taught passionate Web Developer based in France 🇫🇷<br>
 <b>About me</b>
 
 * 💼 Full Stack Developer<br>
-* 🧠 Currently working with Javascript & React<br>
+* ❄ I'm currently coding in React and PHP<br>
 * 🖥️ See my portfolio at [https://christopher-cornet.students-laplateforme.io/](https://christopher-cornet.students-laplateforme.io/)
 
 <br>
@@ -24,8 +24,9 @@ I'm a self-taught passionate Web Developer based in France 🇫🇷<br>
 <h3 align="center">Interested in learning</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,ts,nodejs,angular" /><br>
-  <img src="https://skillicons.dev/icons?i=symfony,vue,express,spring" /><br>
+  <img src="https://skillicons.dev/icons?i=symfony,ts,nodejs,angular" /><br>
+  <img src="https://skillicons.dev/icons?i=vue,spring" /><br>
+  And more ...
 </div>
 
 ###
