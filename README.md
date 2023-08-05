@@ -1,11 +1,12 @@
 ![name](https://github.com/christopher-cornet/christopher-cornet/assets/115154379/05a14cd9-bd65-4a63-9f38-ff65e9fd7eff)
 
-## The Future of the Web is in my code
+I'm a self-taught passionate Web Developer based in France 🇫🇷<br>
 
-🌍  I'm a passionate Web Developer based in Marseille, France 🇫🇷<br>
-💼  I am looking for an apprenticeship in web development<br>
-🧠  Currently, I'm working with Javascript & React<br>
-🖥️  See my portfolio at [https://christopher-cornet.students-laplateforme.io/](https://christopher-cornet.students-laplateforme.io/)
+<b>About me</b>
+
+* 💼 Full Stack Developer<br>
+* 🧠 Currently working with Javascript & React<br>
+* 🖥️ See my portfolio at [https://christopher-cornet.students-laplateforme.io/](https://christopher-cornet.students-laplateforme.io/)
 
 <br>
 
