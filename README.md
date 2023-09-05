@@ -5,7 +5,7 @@ I'm a self-taught passionate Web Developer based in France 🇫🇷<br>
 <b>About me</b>
 
 * 💼 Full Stack Developer<br>
-* ❄ I'm currently coding in React and PHP<br>
+* ❄ I'm currently coding in React and Symfony<br>
 * 🖥️ See my portfolio at [https://christopher-cornet.students-laplateforme.io/](https://christopher-cornet.students-laplateforme.io/)
 
 <br>
@@ -53,6 +53,7 @@ I'm a self-taught passionate Web Developer based in France 🇫🇷<br>
 
 ![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vue JS](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 </div>
 
