@@ -5,7 +5,7 @@ I'm a self-taught passionate Web Developer based in France 🇫🇷<br>
 <b>About me</b>
 
 * 💼 Full Stack Developer<br>
-* ❄ I'm currently coding in React and Symfony<br>
+* ❄ I'm currently coding in React and Node.js<br>
 * 🖥️ See my portfolio at [https://christopher-cornet.students-laplateforme.io/](https://christopher-cornet.students-laplateforme.io/)
 
 <br>
