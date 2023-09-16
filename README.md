@@ -1,17 +1,31 @@
 ![name](https://github.com/christopher-cornet/christopher-cornet/assets/115154379/05a14cd9-bd65-4a63-9f38-ff65e9fd7eff)
 
-I'm a self-taught passionate Web Developer based in France 🇫🇷<br>
-
-<b>About me</b>
-
-* 💼 Full Stack Developer<br>
-* ❄ I'm currently coding in React and Node.js<br>
-* 🖥️ See my portfolio at [https://christopher-cornet.students-laplateforme.io/](https://christopher-cornet.students-laplateforme.io/)
-
-<br>
+<div align="center">
+ 
+ 🔭 I’m currently working on **a To Do List App**
+ 
+ 🌱 I’m currently learning **React JS, Laravel**
+ 
+</div>
 
 <div align="center">
-
+  
+  <a href="mailto:tophercrnt@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/christopher-cornet/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://christopher-cornet.students-laplateforme.io/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+  
+</div>
+ 
+<hr/>
+ 
+<div align="center">
+  
 ## 💻 Languages and tools I use
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,7 +54,7 @@ I'm a self-taught passionate Web Developer based in France 🇫🇷<br>
 
 </div>
 
-###
+<hr/>
 
 ## <div align="center">Interested in learning</div>
 
@@ -56,12 +70,3 @@ I'm a self-taught passionate Web Developer based in France 🇫🇷<br>
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 </div>
-
-###
-
-<div align="right">
-  <a href="https://www.linkedin.com/in/christopher-cornet/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="34" alt="linkedin logo"  /></a>
-  <a href="mailto:christopher.cornet@laplateforme.io" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="46" height="34" alt="gmail logo"  /></a>
-</div>
-
-###
