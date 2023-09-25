@@ -4,7 +4,7 @@
  
  🔭 I’m currently working on **a To Do List App**
  
- 🌱 I’m currently learning **React JS, Symfony**
+ 🌱 I’m currently learning **React JS, Laravel**
  
 </div>
 
