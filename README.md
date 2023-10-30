@@ -4,7 +4,7 @@
  
  🔭 I’m currently working on **a To Do List App**
  
- 🌱 I’m currently learning **React JS, Java**
+ 🌱 I’m currently learning **React JS**
  
 </div>
 
