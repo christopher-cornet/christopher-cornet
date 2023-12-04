@@ -4,7 +4,7 @@
  
  🔭 I’m currently working on **a To Do List App**
  
- 🌱 I’m currently learning **React JS, Java, Angular**
+ 🌱 I’m currently working with **React JS, Java & Angular, Python & Django/Flask**
  
 </div>
 
