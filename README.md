@@ -4,7 +4,7 @@
  
  🔭 I’m currently working on **my training at OpenClassrooms as a Web Integrator**
  
- 🌱 I’m currently working with **React JS, Java & Angular, Python & Django/Flask**
+ 🌱 I’m currently working with **React, Java & Angular, Python & Django/Flask**
  
 </div>
 
