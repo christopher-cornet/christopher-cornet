@@ -1,4 +1,4 @@
-![name](https://github.com/christopher-cornet/christopher-cornet/assets/115154379/05a14cd9-bd65-4a63-9f38-ff65e9fd7eff)
+![LinkedIn Banner2](https://github.com/christopher-cornet/christopher-cornet/assets/115154379/04f62c3c-f031-4662-b48e-c4ec938c4d7c)
 
 <div align="center">
  
