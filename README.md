@@ -1,18 +1,17 @@
+# Hi, I'm Christopher 👋
+
 ![LinkedIn Banner2](https://github.com/christopher-cornet/christopher-cornet/assets/115154379/04f62c3c-f031-4662-b48e-c4ec938c4d7c)
 
 <div align="center">
  
- 🔭 I’m currently working on **my training at OpenClassrooms as a Web Integrator**
+ 🌱 I currently work mainly with **Java, Angular, Spring**
  
- 🌱 I’m currently working with **React, Java & Angular, Python & Django/Flask**
+ 🌱 I also like working with **Python, Django, Flask**
  
 </div>
 
 <div align="center">
-  
-  <a href="mailto:tophercrnt@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+ 
   <a href="https://www.linkedin.com/in/christopher-cornet/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -59,14 +58,14 @@
 
 <div align="center">
  
-## Interested in learning
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+## Currently Learning
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
 ![Node JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Vue JS](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 </div>
