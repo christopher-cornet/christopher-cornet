@@ -1,6 +1,6 @@
 # Hi, I'm Christopher 👋
 
-![LinkedIn Banner2](https://github.com/christopher-cornet/christopher-cornet/assets/115154379/04f62c3c-f031-4662-b48e-c4ec938c4d7c)
+![Profile Banner](https://github.com/christopher-cornet/christopher-cornet/assets/115154379/de1d65b8-5bc9-40e3-9e39-b775ba38e927)
 
 <div align="center">
  
