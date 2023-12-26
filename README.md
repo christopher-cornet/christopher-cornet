@@ -7,6 +7,8 @@
  🌱 I currently work mainly with **Java, Angular, Spring**
  
  🌱 I also like working with **Python, Django, Flask**
+
+ 💼 I am looking for a work-study program for **May/June 2024**
  
 </div>
 
