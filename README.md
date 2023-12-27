@@ -8,7 +8,7 @@
  
  🌱 I also like working with **Python, Django, Flask**
 
- 💼 I am looking for a work-study program for **May/June 2024**
+ 💼 I am looking for an 18-month work-study program for **May/June 2024**
  
 </div>
 
