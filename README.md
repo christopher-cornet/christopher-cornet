@@ -6,7 +6,7 @@
  
  🌱 I currently work mainly with **Java, Angular, Spring**
  
- 🌱 I also like working with **Python, Django, Flask**
+ 🌱 I also like working with **React, Python**
 
  💼 I am looking for an 18-month work-study program for **May/June 2024**
  
