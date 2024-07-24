@@ -1,12 +1,12 @@
 # Hi, I'm Christopher 👋
 
-![Profile Banner](https://github.com/christopher-cornet/christopher-cornet/assets/115154379/de1d65b8-5bc9-40e3-9e39-b775ba38e927)
+![LinkedIn Banner](https://github.com/user-attachments/assets/70c8b6dc-cd7f-4136-848c-aee3d63bbb0f)
 
 <div align="center">
  
- 🌱 I currently work mainly with **☕ Java, 🅰️ Angular, 🍃 Spring**
+ 🌱 I currently work mainly with **Javascript | React | Symfony**
  
- 🌱 I also like working with **⚛ React, 🐍 Python**
+ 🌱 I also like working with **Python and Java**
  
 </div>
 
@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/christopher-cornet/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://christopher-cornet.students-laplateforme.io/" target="_blank">
+  <a href="https://christopher-cornet.github.io/OC-P12/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
   
